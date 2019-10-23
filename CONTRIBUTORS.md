@@ -799,3 +799,8 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Alwi Bastomi](https://github.com/alwibastomi)
+- Place: Kediri, Indonesia
+- Bio: - Fullstack Dev & Design, Freelancer
+- Github: [alwibastomi](https://github.com/alwibastomi)
